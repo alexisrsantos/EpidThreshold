@@ -1,5 +1,5 @@
 # Epidemiological thresholds in closed populations
-Supplementary File 
+## Supplementary File 
 
 The following R code walks through the determination of epidemiologic thresholds for monitoring of mortality following climate disasters, with particular applications to closed populations. Data come from the [National Center for Health Statistics](https://www.cdc.gov/nchs/) and the method can be applied to other instances where monthly counts are collected. 
 
